@@ -703,7 +703,7 @@ img {
 .hero__photo {
   width: 100%;
   height: auto;
-  border-radius: 27px 50%;
+  border-radius: 32px 203px 32px 203px;
   object-fit: cover;
   max-width: 473px;
   /* aspect-ratio: 3 / 4; */
@@ -731,7 +731,7 @@ img {
 }
 
 .cta-button:hover {
-  background-color: #daf2ff;
+  background: #daf2ff;
   transform: translateY(-1px);
 
 }
